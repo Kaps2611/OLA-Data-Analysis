@@ -39,10 +39,10 @@ To analyze OLA ride booking data using SQL and Power BI to uncover insights on r
 - Ratings Dashboard <a href="https://github.com/Kaps2611/OLA-Data-Analysis/blob/main/Ratings.png">Ratings</a>
 
 ## Process:
--Data Generation – Created a synthetic OLA ride dataset for Bengaluru covering one month with realistic booking, ride, and rating details.
--Data Cleaning – Validated data consistency, handled missing values, and ensured business rules (success, cancellation, and incomplete ride limits).
--SQL Analysis – Wrote SQL queries and views to analyze bookings, cancellations, ride distance, revenue, and ratings.
--Data Visualization – Built interactive Power BI dashboards to track ride volume, booking status, revenue, cancellations, and customer/driver ratings.
+- Data Generation – Created a synthetic OLA ride dataset for Bengaluru covering one month with realistic booking, ride, and rating details.
+- Data Cleaning – Validated data consistency, handled missing values, and ensured business rules (success, cancellation, and incomplete ride limits).
+- SQL Analysis – Wrote SQL queries and views to analyze bookings, cancellations, ride distance, revenue, and ratings.
+- Data Visualization – Built interactive Power BI dashboards to track ride volume, booking status, revenue, cancellations, and customer/driver ratings.
 
 
 
