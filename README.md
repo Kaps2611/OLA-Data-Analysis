@@ -5,8 +5,9 @@ To analyze OLA ride booking data using SQL and Power BI to uncover insights on r
 ## Dataset Used
 - <a href="https://github.com/Kaps2611/OLA-Data-Analysis/blob/main/OLA%20Dataset.csv"> OLA Dataset</a>
 
-## Questions
-# SQL Questions:
+
+# Questions
+## SQL Questions:
 1. Retrieve all successful bookings:
 2. Find the average ride distance for each vehicle type:
 3. Get the total number of cancelled rides by customers:
@@ -18,7 +19,7 @@ To analyze OLA ride booking data using SQL and Power BI to uncover insights on r
 9. Calculate the total booking value of rides completed successfully:
 10. List all incomplete rides along with the reason:
 
-# Power BI Questions:
+## Power BI Questions:
 1. Ride Volume Over Time
 2. Booking Status Breakdown
 3. Top 5 Vehicle Types by Ride Distance
@@ -30,14 +31,14 @@ To analyze OLA ride booking data using SQL and Power BI to uncover insights on r
 9. Driver Ratings Distribution
 10. Customer vs. Driver Ratings
 
-# Dashboard Interaction:
+## Dashboard Interaction:
 - Overall Dashboard <a href="https://github.com/Kaps2611/OLA-Data-Analysis/blob/main/Overall.png">Overall</a>
 - Vehicle Type Dashboard <a href="https://github.com/Kaps2611/OLA-Data-Analysis/blob/main/Vehicle%20Type.png">Vehicle-Type</a>
 - Revenue Dashboard <a href="https://github.com/Kaps2611/OLA-Data-Analysis/blob/main/Revenue.png">Revenue</a>
 - Cancellation Dashboard <a href="https://github.com/Kaps2611/OLA-Data-Analysis/blob/main/Cancellation.png">Cancellation</a>
 - Ratings Dashboard <a href="https://github.com/Kaps2611/OLA-Data-Analysis/blob/main/Ratings.png">Ratings</a>
 
-# Process:
+## Process:
 -Data Generation – Created a synthetic OLA ride dataset for Bengaluru covering one month with realistic booking, ride, and rating details.
 -Data Cleaning – Validated data consistency, handled missing values, and ensured business rules (success, cancellation, and incomplete ride limits).
 -SQL Analysis – Wrote SQL queries and views to analyze bookings, cancellations, ride distance, revenue, and ratings.
