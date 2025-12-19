@@ -44,8 +44,18 @@ To analyze OLA ride booking data using SQL and Power BI to uncover insights on r
 - SQL Analysis – Wrote SQL queries and views to analyze bookings, cancellations, ride distance, revenue, and ratings.
 - Data Visualization – Built interactive Power BI dashboards to track ride volume, booking status, revenue, cancellations, and customer/driver ratings.
 
+## Dashboard: 
+<img width="1329" height="740" alt="Overall" src="https://github.com/user-attachments/assets/85d03e11-b13d-4a7f-8ba3-b967d58f47e4" />
 
-
+## Project Insights:
+- Customer cancellations remained under 7%, with major reasons being drivers not moving toward pickup and last-minute plan changes.
+- Driver-side cancellations (under 18%) were primarily due to personal or vehicle-related issues, highlighting fleet reliability challenges.
+- Weekends and match days showed significantly higher ride demand and booking values, making them key periods for revenue optimization.
+- Prime Sedan and Prime SUV contributed higher average booking values and longer ride distances compared to other vehicle types.
+- UPI emerged as the most preferred payment method, driving a major share of successful transactions.
+- Incomplete rides were below 6%, mainly caused by vehicle breakdowns and customer demand issues.
+- Higher customer ratings strongly correlated with higher driver ratings, indicating service quality consistency.
+- A small group of top customers contributed a disproportionate share of total revenue, supporting targeted loyalty strategies
 
 
 
